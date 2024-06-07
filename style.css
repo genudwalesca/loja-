@@ -1,11 +1,12 @@
 @importurl("style");
 *{ /*Seletor Universal para resetar as bordas da página*/
+    
     padding: 0px;
     margin: 0px;
 }
 
 :root{
-    --cor-de-fundo:rgb(185, 218, 245);
+    --cor-de-fundo:rgb(114, 180, 235);
     --cor-de-letra:rgb(0, 0, 0);
 }
 
