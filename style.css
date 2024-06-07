@@ -1,4 +1,4 @@
-@importurl("styles/header.css");
+@importurl("style");
 *{ /*Seletor Universal para resetar as bordas da página*/
     padding: 0px;
     margin: 0px;
