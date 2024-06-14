@@ -1,18 +1,15 @@
-@import url(style/header.css);
-*{ /*Seletor Universal para resetar as bordas da página*/
-    
+@import url("style/header.css");
+*{/*Seletor universal para resetar as bordas da páginas*/
     padding: 0px;
     margin: 0px;
 }
-
-:root{
-    --cor-de-fundo:rgb(114, 180, 235);
-    --cor-de-letra:rgb(0, 0, 0);
+:root{/*seletor raiz para variáveis*/
+    --cor-de-fundo: hsl(286, 100%, 80%);
+    --cor-da-letra: #000000;
 }
-
 body{
-    background-color: var(--cor-de-fundo);
+  background-color:var(--cor-de-fundo);
 }
-h1{
-    background-color: rgb(72, 163, 236);
+h1{ 
+    background-color: #b1ffe5;
 }
