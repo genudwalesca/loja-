@@ -6,6 +6,7 @@
 :root{/*seletor raiz para variáveis*/
     --cor-de-fundo: hsl(212, 69%, 78%);
     --cor-da-letra: #000000;
+    --cor-branco:var(--cor-branco)
 }
 body{
   background-color:var(--cor-de-fundo);
