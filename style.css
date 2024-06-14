@@ -4,7 +4,7 @@
     margin: 0px;
 }
 :root{/*seletor raiz para variáveis*/
-    --cor-de-fundo: hsl(286, 100%, 80%);
+    --cor-de-fundo: hsl(212, 69%, 78%);
     --cor-da-letra: #000000;
 }
 body{
